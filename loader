@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "https://raw.githubusercontent.com/zegalexy/uniquehub/main/scriptmobile.lua"
+    [994732206]  = "https://raw.githubusercontent.com/zegalexy/uniquehub/main/scriptmobile"
 }
 local checkgame = gamelist[game.gameId]
 if gamelist[game.gameId] then 
