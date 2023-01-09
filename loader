@@ -1,5 +1,5 @@
 local gamelist = {
-    [994732206]  = "https://raw.githubusercontent.com/zegalexy/uniquehub/main/scriptmobile",
+    [994732206]  = "https://raw.githubusercontent.com/zegalexy/uniquehub/main/bloxmb",
     [1451439645]  = "https://raw.githubusercontent.com/zegalexy/uniquehub/main/KingLegacyMobile"
 }
 local checkgame = gamelist[game.gameId]
